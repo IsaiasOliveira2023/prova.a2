@@ -16,13 +16,13 @@
 
 .pipe {
     position: absolute;
-    bottom: -50px;
+    bottom: -45px;
     width: 90px;
     animation: pipe-animation 1.8s infinite linear;
 }
 
 .mario {
- width: 95px;
+ width: 90px;
  position: absolute;
  bottom: 0;
 
